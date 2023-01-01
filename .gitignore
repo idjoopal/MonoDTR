@@ -1,0 +1,25 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Project
+data/
+workdirs/
+
+*.png
+*.jpg
+*.mp4
+*.gif
+*.pth
